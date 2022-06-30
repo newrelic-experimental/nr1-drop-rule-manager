@@ -19,7 +19,7 @@
 
 Allows you to view/create/delete drop rules.
 
-## Installation
+## Run Locally
 
 - Clone repo then:
 - `cd nr1-drop-rule-manager`
