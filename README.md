@@ -21,6 +21,8 @@ Allows you to view/create/delete drop rules.
 
 ## Run Locally
 
+**Note that when running locally you will only be able to access accounts that the api key stored in your CLI profile allows you to access.**
+
 - Clone repo then:
 - `cd nr1-drop-rule-manager`
 - `npm install`
