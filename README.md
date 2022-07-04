@@ -17,18 +17,28 @@
 ![GitHub pull requests closed](https://img.shields.io/github/issues-pr-closed/newrelic-experimental/nr1-drop-rule-manager)
 
 
-Allows you to view/create/delete drop rules.
+This application allows you to view, create, delete New Relic data drop rules. With drop rules you can:
+
+- Manage your data ingest  
+- Filter out unimportant low-value data  
+- Filter out potentially sensitive data  
+
+Use the following link to read the full documentation on drop rules:  
+https://docs.newrelic.com/docs/data-apis/manage-data/drop-data-using-nerdgraph/
 
 ## Run Locally
 
 **Note that when running locally you will only be able to access accounts that the api key stored in your CLI profile allows you to access.**
 
-- Clone repo then:
-- `cd nr1-drop-rule-manager`
-- `npm install`
-- `nr1 nerdpack:uuid -gf`
-- `npm start`
-- `Visit the onenr.io URL in the console output under Launchers: drop-rule-manager-launcher`
+Clone repo then:
+```bash
+cd nr1-drop-rule-manager
+npm install
+nr1 nerdpack:uuid -gf
+npm start
+
+Visit the onenr.io URL in the console output under Launchers: drop-rule-manager-launcher
+```
 
 ## Deploy to a New Relic account
 
