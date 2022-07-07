@@ -26,6 +26,10 @@ This application allows you to view, create, delete New Relic data drop rules. W
 Use the following link to read the full documentation on drop rules:  
 https://docs.newrelic.com/docs/data-apis/manage-data/drop-data-using-nerdgraph/
 
+<br/>
+
+![Screenshot](https://drive.google.com/uc?id=1N8llZIEIEuvXIQMrd4u-V3ez4KIw87oR)
+
 ## Run Locally
 
 **Note that when running locally you will only be able to access accounts that the api key stored in your CLI profile allows you to access.**
