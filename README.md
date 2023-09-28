@@ -1,4 +1,11 @@
-[![New Relic Experimental header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Experimental.png)](https://opensource.newrelic.com/oss-category/#new-relic-experimental)
+[![New Relic Experimental header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Archived.png)](https://opensource.newrelic.com/oss-category/#new-relic-archived)
+
+# Archival Notice
+❗Notice: This project has been archived _as is_ and is no longer actively maintained.
+
+New Relic has released an updated another project nr-drop-rule-explorer: [[https://github.com/newrelic/nr-entity-tag-sync](https://github.com/newrelic-experimental/nr1-drop-rule-explorer)](https://github.com/newrelic-experimental/nr1-drop-rule-explorer). This is an active experimental project. 
+
+Thank-you for those that used the drop rule manager, provided feedback and were patient as we slowly updated it. 
 
 # New Relic Data Drop Rule Manager
 ![GitHub forks](https://img.shields.io/github/forks/newrelic-experimental/nr1-drop-rule-manager?style=social)
@@ -15,7 +22,6 @@
 ![GitHub issues closed](https://img.shields.io/github/issues-closed/newrelic-experimental/nr1-drop-rule-manager)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/newrelic-experimental/nr1-drop-rule-manager)
 ![GitHub pull requests closed](https://img.shields.io/github/issues-pr-closed/newrelic-experimental/nr1-drop-rule-manager)
-
 
 This application allows you to view, create, delete New Relic data drop rules. With drop rules you can:
 
